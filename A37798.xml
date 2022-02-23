@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An order of the house of Parliament concerning the gathering in of the pole-moneys</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37798</idno>
+            <idno type="STC">Wing E1555</idno>
+            <idno type="STC">ESTC R210527</idno>
+            <idno type="EEBO-CITATION">13273307</idno>
+            <idno type="OCLC">ocm 13273307</idno>
+            <idno type="VID">98697</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37798)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98697)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1550:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An order of the house of Parliament concerning the gathering in of the pole-moneys</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.N. for Iohn Franck,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by NUC pre-1956 imprints.</note>
+                  <note>"Die Veneris, May 6, 1642."</note>
+                  <note>Identified on film as Wing E1698A (number cancelled).</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poll tax --  England.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98697:1"/>
+            <pb facs="tcp:98697:1" rendition="simple:additions"/>
+            <p>The humble Deſires and PROPOSITIONS OF THE Lords and Commons in Parliament, tendred to His Majeſtie, Febr. 1. AND HIS MAIESTIES Gracious ANSWER and PROPOSITIONS, FEBR. 3. 1642.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Die Lunae, 6. Februar. 6. 1642.</p>
+                        <p>IT is this day Ordered by the Commons in Parliament aſſembled, That the Propoſitions from both Houſes, and His Majesties Anſwer unto them this day received, be forthwith printed and publiſhed:</p>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husbands,</hi> and are to be ſold at his ſhop in the Middle-Temple. <hi>Febr.</hi> 7. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="propositions">
+            <pb facs="tcp:98697:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:98697:2"/>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>E Your Majeſties moſt humble and faithfull Subjects, the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment aſſembled, having in our thoughts the glory of God, Your Majeſties Honour, and the proſperity of Your people; and being moſt grie<g ref="char:EOLhyphen"/>vouſly afflicted with the preſsing miſeries and calamities which have overwhelmed Your two Kingdoms of</hi> England <hi>&amp;</hi> Ireland, <hi>ſince Your Majeſtie hath by the perſwaſion of Evil Councellours withdrawn Your ſelf from Your Parlia<g ref="char:EOLhyphen"/>ment, raiſed an Army againſt it, and by force thereof protected Delinquents from the Iuſtice of it, and conſtraining us to take Arms for the defence of our Religion, Laws, Liberties and Pri<g ref="char:EOLhyphen"/>viledges of Parliament, and for the ſitting of the Parliament in ſafety; Which Fears and Dangers are continued and encrea<g ref="char:EOLhyphen"/>ſed by the raiſing, drawing together &amp; arming of great numbers of Papiſts under the Command of the Earl of</hi> Newcaſtle, <hi>like<g ref="char:EOLhyphen"/>wiſe by making the Lord</hi> Herbert <hi>of</hi> Ragland, <hi>and other known Papiſts, Commanders of great Forces, whereby many grievous Oppreſsions, Rapines, and Cruelties have beene and are daily exerciſed upon the Perſons and Eſtates of your People, Much innocent blood hath been ſpilt, and the Papiſts have attained means of attempting, with hopes of ef<g ref="char:EOLhyphen"/>fecting their miſchievous Deſigne of rooting out the Refor<g ref="char:EOLhyphen"/>med RELIGION, and deſtroying the Profeſſors thereof.</hi>
+            </p>
+            <p>
+               <hi>In the tender ſence and compaſsion of theſe Evils un<g ref="char:EOLhyphen"/>der which the People and Kingdom lye, according to the Duty which we owe to God, Your Majeſtie and the Kingdom, for which we are truſted, Do moſt earneſtly deſire that an end may be put to theſe great Diſtempers and Diſtractions, for the preven<g ref="char:EOLhyphen"/>ting that Deſolation which doth threaten all Your Majeſties Do<g ref="char:EOLhyphen"/>minions,
+<pb n="4" facs="tcp:98697:3"/>&amp; as we have rendred, and ſtill are ready to render to Your Majeſtie, that Subjection, Obedience and Service, which we owe unto You; So we moſt humbly beſeech Your Majeſtie to remove the Cauſes of this War, and to vouchſafe us that Peace and Protection which we and our Anceſtors have formerly en<g ref="char:EOLhyphen"/>joyed under Your Majeſtie and Your Yoyall Predeceſſors, and gra<g ref="char:EOLhyphen"/>ciouſly to accept and grant theſe our moſt humble Deſires and Propoſitions:</hi>
+            </p>
+            <p n="1">I. THat Your Majeſtie will be pleaſed to disband Your Armies, as we likewiſe ſhall be ready to disband all thoſe Forces which we have raiſed; and that You will be pleaſed to return to Your Parliament.</p>
+            <p n="2">II. That You will leave Delinquents to a Legall Tryall, and Judgement of Parliament.</p>
+            <p n="3">III. That the Papiſts may not onely be disbanded, but diſ<g ref="char:EOLhyphen"/>armed according to Law.</p>
+            <p n="4">IV. That Your Majeſtie will be pleaſed to give Your Roy<g ref="char:EOLhyphen"/>all aſſent unto the Bill for taking away Superſtitious Inno<g ref="char:EOLhyphen"/>vations; To the Bill againſt ſcandalous Miniſters; To the Bill againſt Pluralities; To the Bill for the utter aboliſhing and taking away of all Archbiſhops, Biſhops, their Chancellors and Commiſſaries, Deans, Sub-Deans, Deans and Chapters, Arch-Deacons, Canons and Prebendaries, and all Chantors, Chancellors, Trea<g ref="char:EOLhyphen"/>ſurers, Sub-Treaſurers, Succentors and Sacriſts, And all Vicars, Chorall and Choriſters, old Vicars and new Vi<g ref="char:EOLhyphen"/>cars of any Cathedrall or Collegiate Church, and all o<g ref="char:EOLhyphen"/>ther their under-Officers out of the Church of <hi>England;</hi> And to the Bill for Conſultation to be had with godly,
+<pb n="5" facs="tcp:98697:3"/>religious, and learned Divines; That Your Majeſtie will be pleaſed to promiſe to paſſe ſuch other good Bills for ſettling of Church-Government, as upon Conſultation with the Aſſembly of the ſaid Divines ſhall be reſolved on by both Houſes of Parliament, and by them be pre<g ref="char:EOLhyphen"/>ſented to Your Majeſtie.</p>
+            <p n="5">V. That Your Majeſty having expreſs'd in Your Anſwer to the Nineteen Propoſitions of both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, a hearty Affection and Intention for the rooting out of Popery out of this Kingdom. And that if both the Houſes of Parliament can yet finde a more effectuall courſe to diſable Jeſuits, Prieſts, and Popiſh Recuſants from diſturbing the State or eluding the Lawes, that you would willingly give your conſent unto it.</p>
+            <p>That You would be gratiouſly pleaſed, for the better diſcovery and ſpeedier conviction of Recuſants, that an oath may be eſtabliſhed by Act of Parliament, to be ad<g ref="char:EOLhyphen"/>miniſtred in ſuch manner as by both Houſes ſhall be a<g ref="char:EOLhyphen"/>greed on, wherein they ſhall abjure and renownce the popes ſupremacie, the Doctrine of Tranſubſtantiation, Purgatory, Worſhipping of the conſecrated Hoaſt, cru<g ref="char:EOLhyphen"/>cifixes and images; and the refuſing of the ſayd oath being tendred in ſuch manner as ſhall be appointed by Act of Parliament, ſhall be a ſufficient conviction in law of Recuſancie.</p>
+            <p>And that Your Majeſtie will be Gratiouſly pleaſed to give Your Royall Aſſent unto a Bill, for the education of the Children of Papiſts, by Proteſtants, in the Prote<g ref="char:EOLhyphen"/>ſtant Religion.</p>
+            <p>That for the more effectuall execution of the Lawes againſt Popiſh Recuſants, Your Majeſty would be plea<g ref="char:EOLhyphen"/>ſed to conſent to a Bill for the true leavying of the Pe<g ref="char:EOLhyphen"/>nalties
+<pb n="6" facs="tcp:98697:4"/>againſt them, and that the ſame Penalties may be leavyed and diſpoſed of in ſuch manner as both Houſes of Parliament ſhall agree on, ſo as Your Majeſty be at no loſſe: And likewiſe to a Bill whereby the practiſes of Papiſts againſt the State may be prevented, and the Laws againſt them duely executed.</p>
+            <p n="6">VI. That the Earl of <hi>Bristoll</hi> be removed from Your Maje<g ref="char:EOLhyphen"/>ſties Councells, and that both he and the Lord <hi>Harbert,</hi> eldeſt ſon to the Earl of <hi>Worceſter,</hi> may likewiſe be reſtrai<g ref="char:EOLhyphen"/>ned from coming within the Verge of the Court, and that they may not bear any Office, or have any imploy<g ref="char:EOLhyphen"/>ments concerning the State or Common-wealth.</p>
+            <p n="7">VII. That Your Majeſty would be graciouſly pleaſed by Act of Parliament to ſettle the <hi>Militia</hi> both by Sea and Land, and for the Forts and Ports of the Kingdom, in ſuch manner as ſhall be agreed on by both Houſes.</p>
+            <p n="8">VIII. That Your Majeſty will be pleaſed by Your Letters Patents, to make Sir <hi>John Brampſton</hi> Chiefe Juſtice of Your Court of Kings-Bench, <hi>William Lenthall</hi> Eſquire, the now Speaker of the Co<g ref="char:cmbAbbrStroke">̄</g>mons Houſe Mr. of the Rolls, and to continue the Lord Chiefe Juſtice <hi>Banckes,</hi> Chiefe Juſtice of the Court of Common-Pleas, and likewiſe to make Maſter Serjeant <hi>Wilde,</hi> Chief Baron of Your Court of the Exchequer, and that Maſter Iuſtice <hi>Bacon</hi> may be continued, and Maſter Serjeant <hi>Rolls,</hi> and Maſter Ser<g ref="char:EOLhyphen"/>jeant <hi>Atkins</hi> made Iuſtices of the Kings-Bench; that Ma<g ref="char:EOLhyphen"/>ſter Iuſtice <hi>Reeve,</hi> and Maſter Iuſtice <hi>Forſter</hi> may be conti<g ref="char:EOLhyphen"/>nued, Serjeant <hi>Pheaſant</hi> made one of Your Iudges of your Court of Common-Pleas; That Mr. Serjeant <hi>Creſwell,</hi> Mr. <hi>Samuel Brown,</hi> and Mr. <hi>John Puleſton</hi> may be Barons of
+<pb n="7" facs="tcp:98697:4"/>the Exchequor, and that all theſe and all the Judges of the ſame Courts for the time to come, may hold their places by Letters Patents under the Great Seale, <hi>Quamdiu ſe bene Geſſerint,</hi> and that the ſeverall perſons not before na<g ref="char:EOLhyphen"/>med, that do now hold any of theſe places before menti<g ref="char:EOLhyphen"/>oned, may be removed.</p>
+            <p n="9">IX. That all ſuch perſons as have been put out of the Com<g ref="char:EOLhyphen"/>miſſions of peace, or of Oyer and Terminer, or from be<g ref="char:EOLhyphen"/>ing <hi>Cuſtodes Rotulorum</hi> ſince the firſt day of <hi>Aprill,</hi> 1642. (other then ſuch as were put out by the deſire of both or either Houſes of Parliament) may again be put into thoſe Commiſſions and Offices, and that ſuch perſons may be put out of thoſe Commiſſions and Offices as ſhall be ex<g ref="char:EOLhyphen"/>cepted againſt by both Houſes of Parliament.</p>
+            <p n="10">X. That your Majeſty will be pleaſed to paſſe the Bill now preſented to Your Majeſty, to vindicate and ſecure the Priviledge of Parliament, from the ill conſequence of the late preſident in the charge and proceedings a<g ref="char:EOLhyphen"/>gainſt the Lord <hi>Kimbolton</hi> now Earl of Mancheſter, and the five Members of the Houſe of Commons.</p>
+            <p n="11">XI. That your Majeſties Royall aſſent may be given unto ſuch Acts as ſhall be adviſed by both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, for the ſatisfying and paying of the debts and dam<g ref="char:EOLhyphen"/>mages wherein the two Houſes of Parliament have en<g ref="char:EOLhyphen"/>gaged the Publike Faith of the Kingdom.</p>
+            <p n="12">XII. That your Majeſty will be pleaſed according to a gra<g ref="char:EOLhyphen"/>cious Anſwer heretofore received from you, to enter in<g ref="char:EOLhyphen"/>to a more ſtrict Alliance with the States of the United Provinces and other Neighbour Princes, and States of the Proteſtant Religion, for the defence and maintainance
+<pb n="8" facs="tcp:98697:5"/>thereof, againſt all Deſignes and Attempts of the Po<g ref="char:EOLhyphen"/>piſh and Jeſuiticall Faction to ſubvert and ſuppreſſe it, whereby your Subjects may hope to be free from the miſchiefes which this Kingdom hath endured through the power which ſome of that party have had in your Councells, and will be much encouraged in a Parliamen<g ref="char:EOLhyphen"/>tary way, for Your aid and aſſiſtance in reſtoring Your Royall Siſter and Prince Elector to thoſe Dignities and Dominions which belong unto them, and relieving the o<g ref="char:EOLhyphen"/>ther Proteſtant Princes, who have ſuffered in the ſame Cauſe.</p>
+            <p n="13">XIII. That in the generall Pardon which Your Majeſtie hath been pleaſed to offer to Your Subjects, all Offences and Miſdemeanours committed before the 10. of Jan. 1641. which have been, or ſhall be queſtioned, or proceeded a<g ref="char:EOLhyphen"/>gainſt in Parliament upon complaint in the Houſe of Commons, before the 10. of Jan. 1643. ſhall be exce<g ref="char:EOLhyphen"/>pted, which Offences and Miſdemeanours ſhall neverthe<g ref="char:EOLhyphen"/>leſſe be taken and adjudged to be fully diſcharged, againſt all other inferiour Courts.</p>
+            <p>That likewiſe there ſhall be an exception of all offen<g ref="char:EOLhyphen"/>ces committed by any perſon or perſons, which hath or have had any hand or practiſe in the Rebellion of <hi>Ireland,</hi> which hath or have given any councell, aſſiſtance, or en<g ref="char:EOLhyphen"/>couragement, to the Rebells there for the maintainance of that Rebellion, as likewiſe an exception of <hi>William</hi> Earle of Newcaſtle, and <hi>George</hi> Lord <hi>Digby.</hi>
+            </p>
+            <p n="14">XIIII. That Your Majeſty will be pleaſed to reſtore ſuch Members of either Houſe of Parliament to their ſeverall places of ſervice and imployment, out of which they have been put ſince the beginning of this Parliament, that
+<pb n="9" facs="tcp:98697:5"/>they may receive ſatisfaction and reparation for thoſe places, and for the profits which they have loſt by ſuch removall, upon the Petition of both Houſes of Parliament: And that all others may be reſtored to their Offices and Employments, who have been put out of the ſame upon any diſpleaſure conceived againſt them, for any aſſiſtance given to both Houſes of Parliament, or obeying their Com<g ref="char:EOLhyphen"/>mands, or forbearing to leave their Attendance up<g ref="char:EOLhyphen"/>on the Parliament without Licenſe, or for any other occaſion ariſing from theſe unhappy differences be<g ref="char:EOLhyphen"/>twixt Your Majeſty and both Houſes of Parliament, upon the like Petition of both Houſes.</p>
+            <p>
+               <hi>Theſe things being granted and performed, as it hath alwayes been our hearty prayers, ſo ſhall we be enabled to make it our hopefull endeavour, That Your Majeſty and Your People may enjoy the bleſsings of Peace, Truth, and Iuſtice, The Royalty and Greatneſſe of Your Throne may be ſup<g ref="char:EOLhyphen"/>ported by Your loyall and bountifull Affections of Your Peo<g ref="char:EOLhyphen"/>ple, Their Liberties and Priviledges maintained by Your Majeſties Protection and Iuſtice, And this publike Honour and Happineſſe of Your Majesty and all Your Dominions, communicated to other Churches and States of Your Alli<g ref="char:EOLhyphen"/>ance, and derived to Your Royall Poſterity, and the future Generations of this Kingdom for ever.</hi>
+            </p>
+         </div>
+         <div type="response">
+            <pb facs="tcp:98697:6"/>
+            <pb n="3" facs="tcp:98697:6"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+               <g ref="char:leaf">❧</g> His Majeſties Anſwer.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F His Majeſtie had not given up all the Faculties of His Soul to an earneſt endeavor of a Peace and Reconciliation with His People, Or if He would ſuffer Himſelf by any provocation to be drawne to a ſharpneſſe of Language, at a time when there ſeems ſomewhat like an Overture of Accommodation, He could not but reſent the heavy charges upon Him in the Preamble of theſe Propoſitions, and would not ſuffer Himſelf to be reproached with protecting of Delinquents by force from Juſtice (His Majeſties deſire having alwayes been, That all men ſhould be tryed by the known Law, and having been re<g ref="char:EOLhyphen"/>fuſed it) with raiſing an Army againſt His Parlia<g ref="char:EOLhyphen"/>ment: And to be told, That Arms have been taken up againſt Him for the defence of Religion, Laws, Liberties, Priviledges of Parliament; And for the
+<pb n="12" facs="tcp:98697:7"/>ſitting of the Parliament in ſafety, with many other particulars in that Preamble, ſo often and ſo fully anſwered by His Majeſty without remembring the world of the time, and circumſtances of rai<g ref="char:EOLhyphen"/>ſing thoſe Arms againſt Him; When His Majeſtie was ſo farre from being in a condition to invade other mens Rights, that He was not able to main<g ref="char:EOLhyphen"/>tain and defend His own from violence. And with<g ref="char:EOLhyphen"/>out telling His good Subjects, That their Religion (the true Proteſtant Religion in which His Majeſtie was born, hath faithfully lived, and to which He will dye a willing Sacrifice) their Laws, Liberties, Priviledges, and ſafety of Parliament, were ſo amply ſettled and eſtabliſhed, or offered to be ſo by His Majeſtie, before any Army was raiſed againſt Him, and long before any raiſed by Him for His defence, That if nothing had been directed, but that Peace and Protection which His Subjects, and their Anceſtors had in the beſt times enjoyed under His Majeſtie, or His Royall Predeceſſors, this miſunderſtanding and diſtance between His Majeſty and His People; and this generall miſery and di<g ref="char:EOLhyphen"/>ſtraction upon the face of the whole Kingdom had not been now the diſcourſe of Chriſtendome; But His Majeſtie will forbear any expreſſions of bitter<g ref="char:EOLhyphen"/>neſſe, or of a ſenſe of His own ſufferings, That if it be poſſible the memory thereof may be loſt to the world; And therefore though many of the Propoſitions preſented to His Majeſtie by both Houſes appear to Him very derogatory from, and deſtructive to His juſt power and prerogative, and
+<pb n="13" facs="tcp:98697:7"/>no way beneficiall to His Subjects; few of them be<g ref="char:EOLhyphen"/>ing already due to them by the Laws eſtabliſhed (And how unparliamentary it is by Arms to require new Laws, all the world may judge) yet (becauſe theſe may be waved, or mollified, and many things that are now dark, or doubtfull in them, cleered and explained upon debate) His Majeſtie is pleaſed (ſuch is His ſenſe of the miſeries this Kingdom ſuffers By this unnaturall Warie, and His earneſt deſire to remove them by a happy peace) That a ſpeedy time and place be agreed upon for the meeting of ſuch Perſons as His Majeſtie and both Houſes ſhall ap<g ref="char:EOLhyphen"/>point, to diſcuſſe theſe Propoſitions, and ſuch o<g ref="char:EOLhyphen"/>thers here following, as His Majeſtie doth propoſe to them.</p>
+            <p n="1">I. <hi>THat His Majeſties own Revenue, Magazines, Towns, Forts, and Ships, which have been taken or kept from Him by force, be forthwith reſtored unto Him.</hi>
+            </p>
+            <p n="2">II. <hi>That whatſoever hath been done or publiſhed con<g ref="char:EOLhyphen"/>trary to the known Laws of the Land, or derogatory to His Majeſties Legall and known Power, and Rights, be renounced and recalled, that no ſeed may remain for the like to ſpring out of, for the future.</hi>
+            </p>
+            <p n="3">III. <hi>That whatſoever Illegall Power hath been clai<g ref="char:EOLhyphen"/>med and exerciſed by, or over His Subjects, as Impri<g ref="char:EOLhyphen"/>ſoning their Perſons, without Law ſtopping their</hi> Habeas Corpuſſes <hi>and impoſings upon their Eſtates without Act of Parliament, &amp;c. Either by both or either Houſes, or any Committee of both or either, or by any Perſons ap<g ref="char:EOLhyphen"/>pointed
+<pb n="13" facs="tcp:98697:8"/>by any of them, be diſclaimed, and all ſuch Per<g ref="char:EOLhyphen"/>ſons ſo committed forthwith diſcharged.</hi>
+            </p>
+            <p n="4">IV. <hi>That as His Majeſtie will readily conſent, having done ſo heretofore) to the Execution of all Laws already made, and to any good Acts to be made for the ſuppreſsing of Popery, and for the firm ſettling of the Proteſtant Religion now eſtabliſhed by Law; So He deſires that a good Bill may be framed for the better preſerving of the Book of Common Prayer, from the ſcorn and violence of Browniſts, Anabaptiſts, and other Sectaries, with ſuch Clauſes for the eaſe of tender Conſciences as His Majeſty hath formerly offered.</hi>
+            </p>
+            <p n="5">V. <hi>That all ſuch Perſons as upon the Treaty ſhall be excepted out of the generall pardon, ſhall be tryed</hi> per Pares, <hi>according to the uſuall Courſe and known Laws of the Land; and that it be left to that either to acquit or condemn them.</hi>
+            </p>
+            <p n="6">VI. <hi>And to the intent this Treaty may not ſuffer Interruption by any intervening accidents, That a Ceſſa<g ref="char:EOLhyphen"/>tion of Arms, and free trade for all His Majeſties Sub<g ref="char:EOLhyphen"/>jects may be firſt agreed upon.</hi>
+            </p>
+            <p>This Offer and deſire of His Majeſtie He hopes will be ſo cheerfully entertained, that a ſpeedy and bleſſed Peace may be accompliſhed: If it ſhall be rejected, or by inſiſting upon unreaſonable Circum<g ref="char:EOLhyphen"/>ſtances be made impoſſible (which He hopes God in his mercy to this Nation, will not ſuffer) the guilt of the Bloud which will be ſhed, and the deſola<g ref="char:EOLhyphen"/>tion which muſt follow, will lye upon the Heads of the refuſers; However His Majeſtie is reſolved,
+<pb n="15" facs="tcp:98697:8"/>through what Accidents ſoever, He ſhall be com<g ref="char:EOLhyphen"/>pelled to recover His Rights, and with what pro<g ref="char:EOLhyphen"/>ſperous ſucceſſes ſover it ſhall pleaſe God to bleſſe Him, That by His earneſt conſtant Endeavours to Propogate and Promote the true Proteſtant Reli<g ref="char:EOLhyphen"/>on, and by His governing according to the known Laws of the Land, and upholding the juſt Privi<g ref="char:EOLhyphen"/>ledges of Parliament, according to His frequent Proteſtations made before Almighty God, which He will alwayes inviolably obſerve; the world ſhall ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, That He hath undergone all theſe difficul<g ref="char:EOLhyphen"/>ties, and hazards, for the defence and maintenance of thoſe; The zealous preſervation of which, His Majeſtie well knows, is the onely foundation and means for the true happyneſſe of Him and His People.</p>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <pb n="15" facs="tcp:98697:9"/>
+            <p>Die Lunae, 6. Febr. 1642.</p>
+            <p>
+               <hi>IT is this day Ordered by the Com<g ref="char:EOLhyphen"/>mons in Parliament aſſembled, That the Propoſitions from both Houſes to His Majeſtie, and His Majeſties An<g ref="char:EOLhyphen"/>ſwer unto them, this day received, be forthwith Printed and Publiſhed.</hi>
+            </p>
+            <closer>
+               <signed>Hen. Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:98697:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
